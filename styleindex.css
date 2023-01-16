@@ -45,6 +45,5 @@ body {
 p {
     font-size: 25px;
     color: black;
-    font-family: 'Comic Sans MS', 'Cursive';
-    font-style: italic;
+    font-family: 'Comic Sans MS', cursive;
 }
