@@ -2,11 +2,12 @@ body {
     margin: 0px 0px 0px 0px;
     background-color: bisque;
 }
+
 .hero-back {
     background-image: url("imm/metalcard.jpg");
     background-color: black;
     height: 900px;
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -18,7 +19,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 60px;
+    font-size: 4vw;
     letter-spacing: 8px;
     color: crimson;
 }
