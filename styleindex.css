@@ -32,7 +32,7 @@ body {
 }
 
 .linz h1 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', 'Courier', 'monospace';
     color: blueviolet;
     background-color: aqua ;
     font-size: 45px;
