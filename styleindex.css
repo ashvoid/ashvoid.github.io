@@ -19,7 +19,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 4vw;
+    font-size: 3vw;
     letter-spacing: 8px;
     color: crimson;
 }
@@ -28,17 +28,23 @@ body {
     margin: 15px 20px;
     font-weight: bold;
     letter-spacing: 3px;
+    border: 2px dashed midnightblue;
 }
 
-h2 {
-    color: black;
-    background-color: aqua;
+.linz h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    background-color: aqua ;
     font-size: 45px;
+    position: relative;
     text-align: center;
+    border: 1px solid black;
+    margin: 25px;
 }
 
 p {
     font-size: 25px;
     color: black;
-    font-weight: 700;
+    font-family: 'Comic Sans MS';
+    font-style: italic;
 }
