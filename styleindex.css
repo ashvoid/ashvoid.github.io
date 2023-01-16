@@ -41,11 +41,7 @@ body {
     border: 1px solid black;
     margin: 25px;
 }
-p > img {
-    margin: auto;
-    width: fit-content;
-    height: fit-content;
-}
+
 p {
     font-size: 25px;
     color: black;
