@@ -1,0 +1,53 @@
+body {
+    margin: 0px 0px 0px 0px;
+    background-color: antiquewhite;
+}
+.h_back {
+    background-image: url("image/BABAMANDIRBABADHAM.jpg");
+    background-color: black;
+    height: 800px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.h_text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5vw;
+    letter-spacing: 8px;
+    color: darkred ;
+}
+.linez {
+    margin: 20px 10px;
+    letter-spacing: 3px;
+    border: 2px dashed midnightblue;
+}
+.linez p {
+    text-align: justify;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: lighter;
+    padding: 15px;
+    line-height: 1.6;
+}
+.linez h1 {
+    border-bottom: 1px solid black;
+    font-weight: bold;
+    font-size: 40px;
+}
+.linez h2 {
+    border-bottom: 1px solid black;
+    font-weight: normal;
+    font-size: 35px;
+}
+
+img {
+    float: right;
+    margin: 5px;
+}
